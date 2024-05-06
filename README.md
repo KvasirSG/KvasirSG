@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I started coding at the age of 12 (15 years ago), where I taught myself to code game mods for various games like Gmod and Addons for World of Warcraft. Programming is a passion of mine and I have since then taken education in Software Development and am now confident in both Frontend and backend development.
+I started coding at the age of 12 (2007), where I taught myself to code game mods for various games like Gmod and Addons for World of Warcraft. Programming is a passion of mine and I have since then taken education in Software Development and am now confident in both Frontend and backend development.
 
 * 🌍  I'm based in Denmark
 * 🖥️  See my portfolio at [My Portfolio (WIP)](http://kvasirsg.com)
